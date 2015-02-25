@@ -15,6 +15,7 @@ public class TestObject {
 		System.out.println(pff);
 		System.out.println(pff.contains("first"));
 		System.out.println(pff.contains("HKUST"));
+		System.out.println(pff.contains("HKUST"));
 	}
 
 }
